@@ -1,0 +1,9 @@
+Tira um print de alguma seção de uma página web na qual você tenha  identificado o possível uso do JavaScript para implementar uma  funcionalidadeatravés da interação do usuário(em outraspalavras, algo  que não daria para fazer apenas com HTML e CSS).
+
+Sem a necessidade de inspecionar o elemento web, descreva da forma mais detalhada possível o comportamento que leva você a acreditar que seria necessário o uso de JS.
+
+![image-20221205201008850](/home/michel/snap/typora/76/.config/Typora/typora-user-images/image-20221205201008850.png)
+
+Os campos de edição sem o Javascript  seria impossível rodar , pois existe as condições necessárias
+
+de autenticação de id e senha , é necessário uma estrutura de condições validando os dados caso seja verdadeiro ou negativando os mesmo caso seja falso e também dando opções para um outro tipo de acesso e ate mesmo uma troca de senha . 
