@@ -1,0 +1,18 @@
+- [ ] O **Quokka.js** é um playground de prototipagem rápida para JavaScript e  TypeScript no seu VS Code, com acesso aos arquivos do seu projeto,  relatórios embutidos, cobertura de código e formatação avançada de  saída.
+
+  Os valores de tempo de execução são atualizados e exibidos no seu IDE ao lado do seu código, enquanto você digita.
+
+  Em outras palavras, enquanto você digita, os resultados aparecem em tempo real diretamente no VS Code.
+
+  **Beautify** - Pode parecer meio fútil no começo, mas acredite, essa extensão funciona que é uma beleza! 
+
+  De forma prática, a Beautify faz a identação de seu código  padronizando a formatação de forma legível e, por que não dizer, bonita  como o próprio nome sugere. 
+
+  **JavaScript (ES6)** - Chega de cansar seus dedos digitando um caminhão de códigos de forma  desnecessária sendo que o JavaScript (ES6) Code Snippets é capaz de  fornecer trechos de código JavaScript, TypeScript, Vue, React e HTML de  forma prática e simples. 
+
+  **ESLint - ** basicamente verifica seu código quanto a erros comuns e permite que você saiba onde está o bug no próprio editor. 
+
+  É como um x-9 virtual que está validando seu código enquanto você o escreve e denuncia seus erros.
+
+
+
